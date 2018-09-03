@@ -2,6 +2,8 @@
 
 # Technologies
 
+### Python, Node JS, JSON, RESTful APIs, pandas, sklearn, heroku, d3.js
+
 # Steps Involved
 
 # Installation
