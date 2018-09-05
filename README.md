@@ -25,19 +25,25 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 
 ### Streamgraph
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StreamGraph.png "Stream Graph")
 
 ### TreeMap
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/TreeMap.png "Tree Map")
 
 ### Forced Layout
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/ForcedLayout.jpg "Forced Layout")
 
 ### Line Graph
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/LineGraph.jpg "Line Graph")
 
 ### Stacked Bar Graph
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StackedBarGraph.png "Stacked Bar Graph")
 
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StackedBarGraph2.png "Stacked Bar Graph")
 
 # Installation
 
