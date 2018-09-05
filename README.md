@@ -1,6 +1,9 @@
 # Project Description
 
+Analyzing the player skills and identifying the right players for the team is crucial for all sports. It becomes even more important when there are lot of players competing for a single spot. In order to ease the scouting process, we have created a visualization system with help from machine learning algorithms for the [IPL](https://en.wikipedia.org/wiki/Indian_Premier_League) data. Coaches/Managers can make use of the various visualizations to find the right players for their team. 
 
+Coaches/Managers can make use of this system to analyze the statistics about the players and compare how they fare against other players. They can also make use of this system to analyze how their team has performed over the years and find the areas to be strengthened. The visualization systesm is built following the UI design principles. The system also allows the user to apply various customizations to their 
+results. 
 
 # Technologies
 
@@ -9,6 +12,14 @@
 **Libraries:** ReactJS, pandas, SciKit Learn, NumPy, Flask, d3.js, Bootstrap
 
 **Tools:** Heroku, Git, PyCharm, Sublime Text
+
+# Dataset
+
+Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/data
+
+# Architecture
+
+
 
 # Installation
 
