@@ -1,10 +1,12 @@
 # Project Description
 
+
+
 # Technologies
 
-Python, Node JS, JSON, RESTful APIs, pandas, sklearn, heroku, d3.js
-
-# Steps Involved
+### Languages: Python, JavaScript, HTML, CSS
+### Libraries: ReactJS ,pandas, sklearn, NumPy, Flask, d3.js, Bootstrap
+### Tools: Heroku, Git, PyCharm, Sublime Text
 
 # Installation
 
