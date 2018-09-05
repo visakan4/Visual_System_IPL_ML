@@ -21,6 +21,24 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 
 
 
+# Screenshots
+
+### Streamgraph
+
+
+### TreeMap
+
+
+### Forced Layout
+
+
+### Line Graph
+
+
+### Stacked Bar Graph
+
+
+
 # Installation
 
 ### 1) Clone the repository
