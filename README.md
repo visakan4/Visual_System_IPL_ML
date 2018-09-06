@@ -19,7 +19,7 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 
 # Architecture
 
-
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/architecture.PNG "Architecture")
 
 # Installation
 
@@ -66,10 +66,6 @@ For example: If the server started on port 8000, then the root path `localhost:8
 
 ![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/TreeMap.png "Tree Map")
 
-### Forced Layout
-
-![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/ForcedLayout.jpg "Forced Layout")
-
 ### Line Graph
 
 ![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/LineGraph.jpg "Line Graph")
@@ -79,3 +75,11 @@ For example: If the server started on port 8000, then the root path `localhost:8
 ![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StackedBarGraph.png "Stacked Bar Graph")
 
 ![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/StackedBarGraph2.png "Stacked Bar Graph")
+
+### Clustering
+
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/clustering.PNG "Clustering")
+
+### Forced Layout
+
+![alt text](https://github.com/visakan4/Visual_System_IPL_ML/blob/master/images/ForcedLayout.jpg "Forced Layout")
