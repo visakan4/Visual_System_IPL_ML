@@ -25,7 +25,7 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 
 ### 1) Clone the repository
 * Make sure git is installed locally
-* To clone the repo: `git clone git@bitbucket.org:sd877278/vat_backend.git`
+* To clone the repo: `git@github.com:visakan4/Visual_System_IPL_ML.git`
 
 ### 2) Prerequisites
 #### 2.1) Windows Prerequisites
