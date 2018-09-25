@@ -9,7 +9,7 @@ results.
 
 **Languages:** Python, JavaScript, HTML, CSS
 
-**Libraries:** ReactJS, pandas, SciKit Learn, NumPy, Flask, d3.js, Bootstrap
+**Libraries:** Node.js, pandas, SciKit Learn, NumPy, Flask, d3.js, Bootstrap
 
 **Tools:** Heroku, Git, PyCharm, Sublime Text
 
